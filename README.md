@@ -1,3 +1,6 @@
+![Logo][public/cover.png]
+
+
 # Calmify
 
 A Minimalist Productivity App
