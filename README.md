@@ -1,5 +1,4 @@
-![Logo][public/cover.png]
-
+![Logo](public/cover.png)
 
 # Calmify
 
